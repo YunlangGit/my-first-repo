@@ -1,4 +1,4 @@
 Welcome to my first repo
 Learning Git is Going Well So Far
 a new line with update-readme branch
-I will be admit into any program I want
+I will be admited into any program I want
